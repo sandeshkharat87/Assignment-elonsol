@@ -1,0 +1,7 @@
+1. For porject 2 (Bangle Defect Detection ) images are collected from Kaggle
+2. Then  made annotation on the dataset
+3. Train YOLOv8 model for bangle defect Detection
+4. if bangle is defected then rectagnle is created on the image
+5. Used SORT (Object Tracking Techniuqe) to keep track of defect
+6. To used this model for "Video Analysis" , I made a custom video to so model could detect on
+    video

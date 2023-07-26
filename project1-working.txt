@@ -1,0 +1,4 @@
+1. For project 1 Mediapipe is Used
+2. Mediapipe can give better FPS as compared to other Object (Hand) Detection model
+3. Open-cv techinues are check if Hand crosses the line or not
+4. If hand crosses the line then Hands ROI color changes to -> Red
