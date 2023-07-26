@@ -12,8 +12,9 @@
 3. Train YOLOv8 model for bangle defect Detection
 4. if bangle is defected then rectagnle is created on the image
 5. Used SORT (Object Tracking Techniuqe) to keep track of defect
-6. To used this model for "Video Analysis" , I made a custom video to so model could detect on
-    video
+6. To used this model for "Video Analysis" , I made a custom video to so model could detect on video
+
+##### Download Object detection model from this link [https://drive.google.com/file/d/1YuzogmTjgnKudR2JvqQ6yvBPXpI81BAB/view?usp=sharing]
 ![BangleDefect](https://github.com/sandeshkharat87/Assignment-elonsol/assets/47347413/ff5fc2a4-726a-433f-b867-6e159afb7c38)
 
 ![Red-Flag](https://github.com/sandeshkharat87/Assignment-elonsol/assets/47347413/1040da59-2a2c-4835-866b-cc85db8cd6c0)
